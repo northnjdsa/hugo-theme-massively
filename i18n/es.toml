@@ -2,14 +2,6 @@
   other = "Dirección"
 [CONTACT_EMAIL]
   other = "Correo electrónico"
-[CONTACT_FORM_FIELD_EMAIL]
-  other = "Correo electrónico"
-[CONTACT_FORM_FIELD_MESSAGE]
-  other = "Mensaje"
-[CONTACT_FORM_FIELD_NAME]
-  other = "Nombre"
-[CONTACT_FORM_SUBMIT_SEND_MESSAGE]
-  other = "Enviar mensaje"
 [CONTACT_PHONE]
   other = "Teléfono"
 [CONTACT_SOCIAL]
